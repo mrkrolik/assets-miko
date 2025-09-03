@@ -1,1 +1,1 @@
-document.body.innerHTML = '';
+const catalogService = true;
