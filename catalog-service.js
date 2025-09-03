@@ -1,1 +1,1 @@
-const catalogService = true;
+const catalogService = false;
